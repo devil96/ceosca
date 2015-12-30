@@ -1,2 +1,2 @@
-# ceosca
-temporary site for CEOSCA.
+# Ceosca
+Website of CEOSCA.
